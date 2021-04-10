@@ -6,9 +6,9 @@ Given the value of  and the  of each flavor for  trips to the Ice Cream Parlor, 
 
 Example
 
+cost = [2,1,3,5,6]
 
-
-They would purchase flavor ID's  and  for a cost of . Use  based indexing for your response.
+They would purchase flavor ID's 1 and 3 for a cost of 5. Use  based indexing for your response.
 
 Note:
 
