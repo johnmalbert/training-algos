@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.exe
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.dll
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\ref\find-digits.dll
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\bin\Debug\net5.0\find-digits.pdb
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.dll
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\ref\find-digits.dll
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.pdb
+C:\Users\johnm\Documents\TrainingAlgos\find-digits\obj\Debug\net5.0\find-digits.genruntimeconfig.cache
