@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.exe
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.dll
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\ref\SherlockAndSquares.dll
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\bin\Debug\net5.0\SherlockAndSquares.pdb
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.dll
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\ref\SherlockAndSquares.dll
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.pdb
+C:\Users\johnm\Documents\TrainingAlgos\SherlockAndSquares\obj\Debug\net5.0\SherlockAndSquares.genruntimeconfig.cache
