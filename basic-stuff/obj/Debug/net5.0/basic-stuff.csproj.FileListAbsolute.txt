@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.exe
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.dll
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\ref\basic-stuff.dll
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\bin\Debug\net5.0\basic-stuff.pdb
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.dll
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\ref\basic-stuff.dll
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.pdb
+C:\Users\johnm\Documents\TrainingAlgos\basic-stuff\obj\Debug\net5.0\basic-stuff.genruntimeconfig.cache

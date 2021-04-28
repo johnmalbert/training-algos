@@ -32,4 +32,28 @@ function whatFlavors(cost, money) {
     console.log(dict)
 }
 
-whatFlavors([2,4,3,1,8],7)
+whatFlavors([2,4,3,1,8],7);
+
+
+//non unique inputs:
+var twoSum = function(nums,target) {
+    let dict = {};
+    
+    for(let i = 0; i <nums.length; i++){
+
+        if((target - nums[i]) in dict){
+            //return that address and j
+            if(dict[target-nums[i]] != i){
+                var arr = [dict[target-nums[i]], i];
+                return arr;                 
+            }
+
+        }
+        
+        dict[nums[i]] = i;
+    }
+    
+};
+
+let arr = [2,7,11,15];
+console.log(twoSum(arr,9));
