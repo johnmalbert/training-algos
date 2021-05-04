@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.exe
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.dll
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\ref\permutation-equation.dll
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\bin\Debug\net5.0\permutation-equation.pdb
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.dll
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\ref\permutation-equation.dll
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.pdb
+C:\Users\johnm\Documents\TrainingAlgos\permutation-equation\obj\Debug\net5.0\permutation-equation.genruntimeconfig.cache
