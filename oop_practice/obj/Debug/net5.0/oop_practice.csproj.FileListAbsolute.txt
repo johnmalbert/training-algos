@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.exe
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.dll
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\ref\oop_practice.dll
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\bin\Debug\net5.0\oop_practice.pdb
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.dll
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\ref\oop_practice.dll
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.pdb
+C:\Users\johnm\Documents\TrainingAlgos\oop_practice\obj\Debug\net5.0\oop_practice.genruntimeconfig.cache

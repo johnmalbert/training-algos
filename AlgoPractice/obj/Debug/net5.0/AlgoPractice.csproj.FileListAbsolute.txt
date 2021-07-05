@@ -1,0 +1,16 @@
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.csprojAssemblyReference.cache
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.AssemblyInfoInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.AssemblyInfo.cs
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.csproj.CoreCompileInputs.cache
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.exe
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.deps.json
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.runtimeconfig.json
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.runtimeconfig.dev.json
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.dll
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\ref\AlgoPractice.dll
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\bin\Debug\net5.0\AlgoPractice.pdb
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.dll
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\ref\AlgoPractice.dll
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.pdb
+C:\Users\johnm\Documents\TrainingAlgos\AlgoPractice\obj\Debug\net5.0\AlgoPractice.genruntimeconfig.cache
